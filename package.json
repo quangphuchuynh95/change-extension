@@ -1,0 +1,14 @@
+{
+  "name": "chang-extension",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build manifest.json",
+    "dev": "parcel dev manifest.json"
+  },
+  "devDependencies": {
+    "@parcel/config-webextension": "^2.10.1",
+    "parcel": "^2.10.1",
+    "typescript": "^5.2.2"
+  }
+}
