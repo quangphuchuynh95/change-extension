@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "build": "parcel build manifest.json",
-    "dev": "parcel dev manifest.json"
+    "dev": "parcel watch manifest.json"
   },
   "devDependencies": {
     "@parcel/config-webextension": "^2.10.1",

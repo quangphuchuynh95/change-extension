@@ -9,10 +9,10 @@
   "content_scripts": [
     {
       "matches": [
-        "*://github.com/parcel-bundler/*"
+        "*://code.scaleflex.cloud/*"
       ],
       "js": [
-        "src/content-script.ts"
+        "src/content-script/code_scaleflex_cloud.ts"
       ]
     }
   ]
