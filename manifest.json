@@ -11,6 +11,9 @@
       "matches": [
         "*://code.scaleflex.cloud/*"
       ],
+      "css": [
+        "src/content-script/code_scaleflex_cloud.css"
+      ],
       "js": [
         "src/content-script/code_scaleflex_cloud.ts"
       ]
